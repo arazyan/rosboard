@@ -5,7 +5,6 @@
 
 [solution](./public/)
 
----
 Interactive dashboard, using the Panel framework and hvplot for plotting graphs.
 
 ### How to run draft-solution

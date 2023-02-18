@@ -1,9 +1,8 @@
 # young-bit 
 ### status: in progress
+Interactive dashboard, using the Panel framework and hvplot for plotting graphs.
 
 [Solution](./public/)
-
-Interactive dashboard, using the Panel framework and hvplot for plotting graphs.
 
 ### How to run draft-solution
 1. Install requirements via ```pip install -r ./public/requirements.txt```

@@ -3,7 +3,7 @@
 
 ### status: in progress
 
-[solution](./public/)
+[Solution](./public/)
 
 Interactive dashboard, using the Panel framework and hvplot for plotting graphs.
 

@@ -1,6 +1,4 @@
 # young-bit 
-### case: dashboard
-
 ### status: in progress
 
 [Solution](./public/)

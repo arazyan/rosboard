@@ -8,6 +8,10 @@ panel
 #ipykernel
 plotly
 nbformat
+seaborn
+matplotlib
+scikit-learn
+catboost
 
 #if you get mimtype error: pip insatll --upgrade nbformat
 

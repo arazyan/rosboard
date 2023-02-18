@@ -4,3 +4,5 @@
  * Pyodide load function
  */
 const loadPyodide: any
+
+const pyodide: any

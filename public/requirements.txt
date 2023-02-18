@@ -1,0 +1,17 @@
+### requires jupyter notebook installed
+### requirements without version specifires
+pandas
+numpy
+hvplot
+panel
+#jupyter_bokeh
+#ipykernel
+plotly
+nbformat
+
+#if you get mimtype error: pip insatll --upgrade nbformat
+
+### requirements with version specifires
+openpyxl==3.1.0
+
+

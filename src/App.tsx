@@ -1,13 +1,18 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
+import PythonProvider from './components/PythonProvider'
 
 function App() {
     const [count, setCount] = useState(0)
 
     return (
         <div className="App">
-            <div>
+            <PythonProvider path='/python/main.py' />
+            <PythonProvider path='/python/main.py' />
+            {/* <PythonProvider path='/python/main.py' />
+            <PythonProvider path='/python/main.py' /> */}
+            {/* <div>
                 <a href="https://vitejs.dev" target="_blank">
                     <img src="/vite.svg" className="logo" alt="Vite logo" />
                 </a>
@@ -26,7 +31,7 @@ function App() {
             </div>
             <p className="read-the-docs">
                 Click on the Vite and React logos to learn more
-            </p>
+            </p> */}
         </div>
     )
 }

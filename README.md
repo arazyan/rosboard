@@ -8,5 +8,5 @@ Interactive dashboard on a local web-server with Panel framework and hvPlot.
 
 ### How to run solution
 1. Install requirements via ```pip install -r ./public/requirements.txt```
-2. Open jupyter-notebook, select 'Cell'-> 'Run All'
+2. Open *final_solution.ipynb*, select 'Cell'-> 'Run All'
 3. Click on blocks, move sliders, hover on graphics and etc...

@@ -1,10 +1,12 @@
-# young-bit 
-### status: in progress
-Interactive dashboard, using the Panel framework and hvplot for plotting graphs.
+# young-bit hackathon
+### status: done
+Interactive dashboard with Panel framework and hvPlot.
 
-[Solution](./public/)
+[Solution](./public/python)
 
-### How to run draft-solution
+[Screenshots](./public/data/images)
+
+### How to run dashboard
 1. Install requirements via ```pip install -r ./public/requirements.txt```
 2. Open jupyter-notebook, select 'Cell'-> 'Run All'
 3. Click on blocks, move sliders, hover on graphics and etc...

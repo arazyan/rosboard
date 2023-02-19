@@ -16,5 +16,5 @@ Interactive dashboard on a local web-server with Panel framework and hvPlot.
         pip install ipykernel 
         python -m ipykernel install --user --name kernel_name
 
-2. Open *final_solution.ipynb*, select 'Cell'-> 'Run All'
+2. Open *final_solution.ipynb*, select kernel, select 'Cell'-> 'Run All'
 3. Click on blocks, move sliders, hover on graphics and etc...
